@@ -16,20 +16,20 @@
 
   --sn-stylekit-shadow-color: #43576D;
   --sn-stylekit-background-color: #F9F5EB;
-  --sn-stylekit-border-color: #002B5B;
+  --sn-stylekit-border-color: #4C4C6D;
   --sn-stylekit-foreground-color: black;
 
   --sn-stylekit-contrast-background-color: #f6f6f6;
   --sn-stylekit-contrast-foreground-color: #2e2e2e;
-  --sn-stylekit-contrast-border-color: #e3e3e3;
+  --sn-stylekit-contrast-border-color: #4C4C6D;
 
   --sn-stylekit-secondary-background-color: #f4f3f8;
   --sn-stylekit-secondary-foreground-color: #2e2e2e;
-  --sn-stylekit-secondary-border-color: #e3e3e3;
+  --sn-stylekit-secondary-border-color: #4C4C6D;
 
   --sn-stylekit-secondary-contrast-background-color: #e3e3e3;
   --sn-stylekit-secondary-contrast-foreground-color: #2e2e2e;
-  --sn-styleki--secondary-contrast-border-color: #a2a2a2;
+  --sn-styleki--secondary-contrast-border-color: #4C4C6D;
 
   --sn-stylekit-editor-background-color: white;
   --sn-stylekit-editor-foreground-color: var(--sn-stylekit-foreground-color);
@@ -37,12 +37,12 @@
   --sn-stylekit-paragraph-text-color: #454545;
 
   --sn-stylekit-input-placeholder-color: rgb(168, 168, 168);
-  --sn-stylekit-input-border-color: #e3e3e3;
+  --sn-stylekit-input-border-color: #4C4C6D;
 
-  --sn-stylekit-scrollbar-thumb-color: #dfdfdf;
-  --sn-stylekit-scrollbar-track-border-color: #e7e7e7;
+  --sn-stylekit-scrollbar-thumb-color: #EA5455;
+  --sn-stylekit-scrollbar-track-border-color: #4C4C6D;
 
-  --sn-stylekit-general-border-radius: 2px;
+  --sn-stylekit-general-border-radius: 3px;
 
   --sn-stylekit-grey-1: #72767e;
   --sn-stylekit-grey-2: #bbbec4;
