@@ -1,16 +1,18 @@
 {
-  "identifier": "dev.myreli.sn.notes-light",
-  "name": "Notes Light",
+  "identifier": "dev.github.rhoadsky.standard-notes-delightful-theme",
+  "name": "Standard Notes Delightful Theme",
   "content_type": "SN|Theme",
-  "version": "0.1.1",
-  "description": "Light theme for Standard Notes, inspired by Apple Notes",
-	"url": "https://cdn.jsdelivr.net/gh/myreli/sn-theme-notes-light@main/theme.css",
-  "latest_url": "https://cdn.jsdelivr.net/gh/myreli/sn-theme-notes-light@main/ext.json",
-  "download_url": "https://github.com/myreli/sn-theme-notes-light/archive/main.zip",
-	"dock_icon": {
-		"type": "circle",
-   	"background_color": "#e6b337",
-   	"foreground_color": "#e6b337",
-   	"border_color": "#e6b337"
-	}
+  "version": "1.0.0",
+  "description": "A light them for Standard Notes based on sn-theme-notes-light by myreli.",
+  "url": "https://raw.githubusercontent.com/rhoadsky/Standard-Notes-Delightful-Theme/main/theme.css",
+  "download_url": "https://github.com/rhoadsky/Standard-Notes-Delightful-Theme/archive/main.zip",
+  "latest_url": "https://listed.to/my-plugin-json-link",
+  "marketing_url": "https://github.com/rhoadsky/Standard-Notes-Delightful-Theme",
+  "dock_icon": {
+      "type": "circle",
+      "background_color": "#EA5455",
+      "foreground_color": "#F9F5EB",
+      "border_color": "#002B5B"
+    },
+  "statusBar": "dark-content"
 }
