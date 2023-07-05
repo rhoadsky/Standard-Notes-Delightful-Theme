@@ -1,5 +1,5 @@
-# sn-theme-notes-light
-Light theme for Standard Notes, inspired by Apple Notes.
+# Standard Notes Delightful Theme
+A light them for Standard Notes based on sn-theme-notes-light by myreli.
 
 ## Install
 
